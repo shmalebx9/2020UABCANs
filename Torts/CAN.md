@@ -6,6 +6,19 @@ classoption:
 
 # Battery
 
+**Elements:**
+
++ Physical contact that is harmful OR offensive (can be indirect contact)
++ Intentional (the defendant intended to make contact)
+
+**Defences:**
+
++ Consent (ex: sports game)
++ Self-defence (ex: fending off mugger)
++ Defence of others (ex: intervening in an attack)
++ Defence of property (ex: fending off a home-invader)
++ Legal authority (ex: police officer arresting a criminal)
+
 ## Physical Contact
 
 **At a glance:** the tortfeasor must physically contact the plaintiff for a tort of battery.
@@ -74,6 +87,11 @@ classoption:
 
 # Assault
 
+**Elements:** 
+
++ Any action, statement, or threat that creates a reasonable apprehension of IMMINENT harm.
++ The threat may be conditional or direct.
+
 ## Imminent Threat
 
 **At a glance:** A threat is imminent if a reasonable person would perceive that they were about to suffer harm.
@@ -92,6 +110,16 @@ classoption:
 
 # The Rule in Rylands v Fletcher
 
+**Elements:**
+
++ The defendant used land in a non-natural way AND
++ The harm resulted from something escaping from the defendant's land
+
+**Defences:**
+
++ Plaintiff at fault (the thing escaped because of the plaintiff).
++ Vis major/act of God (a hurricane).
+
 **At a glance:** Anyone who uses keeps something on their land that is unnatural is liable if it escapes, regardless of fault.
 
 **Rylands v Fletcher:** Rylands hired contractors to build a reservoir on his land. The contractors followed protocol without making a mistake. The reservoir leaked and then exploded into an underground mineshaft, flooding Fletcher's land. Rylands was liable.
@@ -107,6 +135,19 @@ classoption:
 + Something must escape from the defendant's land for the rule in Rylands to apply.
 
 # Vicarious Liability
+
+**Elements:** 
+
++ An employer is liable for torts which were committed by an empolyee AND
++ Committed in the course of employment
+
+**Tests for whether tortfeasor is an employer:**
+
++ Control test (did the supposed employer have control over the person who committed the tort)
++ Organization/integration test (is the person who committed the tort an integral part of the defendant's organization/company)
++ Ownership of tools
++ Chance of profit
++ Risk of loss
 
 **At a glance:** A defendant is liable for torts committed by employees in the course of their employment, whether or not the defendant exercised reasonable care.
 
@@ -141,6 +182,23 @@ classoption:
 + Case differentiated from *Blackwater* because the Oblates took more steps to mitigate risk, though they ultimately failed.
 
 # Defamation
+
+**Elements:**
+
++ Impugned communication objectively reduces respect or esteem for the plaintiff in the eyes of right-thinking members of society AND
++ Impugned speech refers to the plaintiff AND
++ Impugned speech was communicated to at least one person (other than the plaintiff)
+
+**Defences:**
+
++ Apology or retraction (only mitigates damages, partial defence)
++ Justification/truth (the impugned speech can be objectively proven)
++ Consent (plaintiff consented to publication)
++ Absolute privilege applies to contexts such as: Lawyer and client, Political speeches, communications between government officials, communication between spouses.
++ Qualified privilege applies to situations where the person communicating and the person receiving the communication have a moral interest in frank communication (ex: parent telling daughter that intended spouse uses drugs)
++ Fair comment (based on truth, on a topic of public interest)
++ Responsible publication (applies to responsibly published news stories)
+
 
 **At a glance:** A defendant is liable when the words they say damage a persons reputation in the eyes of right-thinking members of society **AND** the statement refers to the plaintiff **AND** the statement is actually published.
 
