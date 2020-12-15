@@ -121,7 +121,7 @@ Additionally, POGG is used to justify federal jurisdiction over matters not fore
 
 **Incidental Effects:** This doctrine is similar to Ancillary powers but addresses a different case. Incidental effects applies to legislation where the impugned part of a regulatory scheme incidentally touches on another head of power. This case is distinct because it applies only to parts of legislation which in pith and substance apply to a head of power outside the enacting body.
 
-**Inter-Jurisdictional Immunity:** This doctrine attempts to curb permissive nature of the other doctrines to safeguard the (not so) watertight compartments of power. This doctrine applies to legislation which in some way infringes on a **core** area of jurisdiction of another body. IJI does not strike down a law, but rather reads it down. When IJI is applied it leaves the larger scheme intact but specifies that it cannot be applied to a specific area. The test for IJI is whether the impugned part of a scheme **impairs** a core function of another body's regulatory role.
+**Inter-Jurisdictional Immunity:** This doctrine attempts to curb permissive nature of the other doctrines to safeguard the (not so) watertight compartments of power. This doctrine applies to legislation which in some way infringes on a **core** area of jurisdiction of another body. IJI does not strike down a law, but rather reads it down. When IJI is applied it leaves the larger scheme intact but specifies that it cannot be applied to a specific area. The test for IJI is whether the impugned part of a scheme **impairs** a core function of another body's regulatory role. Tests for IJI are the federal purpose test (*BMO v Hall*) and the impossibility of dual compliance test (*Multiple Access*).
 
 **Paramountcy:** The constitution is largely silent on what to do with valid but conflicting federal and provincial laws. The federal paramountcy doctrine means that in these cases, the federal legislation trumps the provincial. There are several tests for paramountcy:
 
@@ -132,6 +132,12 @@ laws
 + Frustration of federal purpose: Does the provincial law frustrate the purpose of federal
 legislation (doing indirectly what they cannot do directly)
 + Federal intent to occupy the field: Has the Parliament made it’s intention to occupy a field of regulation entirely (a complete regulatory scheme).
+
+**POGG:** This doctrine is a favourite of the federal government as it is quite open to interpretation. There are three main branches of POGG:
+
++ Gap branch: parliament has control over heads of power which did not exist at confederation (Aeronautics, Radio). 
++ Emergency branch: *re anti-inflation.*
++ National Concern: *Russel,* *Johannesson v. Rural Municipality of West St. Paul,* *Munro v. National Capital Commission,*
 
 **R v Morgentaler:** The supreme court had recently legalized abortion in Canada. Nova Scotia could not make abortion ilegal unilaterally as it fell under the federal criminal law power (s. 91(27)). Instead, Nova Scotia purported to exercise the provincial jurisdiction over hospitals (s. 92(7)) to make access to abortion more difficult. Nova Scotia passed a law that would make it ilegal to perform certain medical procedures, including abortion, in a private clinic. The purpose clause in the act itself claimed that the aim of the statute was to prevent a two-tier health-care system. Morgantaler sued, claiming that the act was aimed at stopping him from opening his planned abortion clinic. Morgantaler won.
 
@@ -167,6 +173,8 @@ legislation (doing indirectly what they cannot do directly)
 	+ Does the legislation infringe on the core of the power of another body. > yes
 	+ Is the infringement serious enough to impair the power of the other body to fulﬁl its core function. > yes
 
+**Note:** In the recent supreme court cases *Bank of Montreal v Marcotte* (dealing with banking provincial regulations on banks) and *Canada v PHS Community Services Society* (dealing with safe injection sites) the supreme court has cautioned against using IJI. The court stated that IJI works against the dominant tide of cooperative federalism. Basically, IJI is a valid doctrine but should be used as a matter of last resort.
+
 **Multiple Access Contd:** This case also applied the duplication test for federal paramountcy. Since the Ontario legislation only duplicated the federal legislation it was valid.
 
 **Bank of Montreal v Hall:** Hall took out a loan from BMO and used a piece of farm equipment as collateral. Hall defaulted on the loan and the bank immediately repossessed the piece of equipment. A Sask. statute required banks to go through a legal process before they could recover collateral. A federal statute allowed banks to take collateral with no legal process. Both laws were valid. Sask. argued that paramountcy should not apply as the bank could comply with both laws. The federal law did not **mandate** that banks recover property immediately, it only allowed it. Therefore, complying with the Sask. statute did not violate the federal law. Sask. lost, the provincial statute is invalid.
@@ -182,12 +190,15 @@ legislation (doing indirectly what they cannot do directly)
 **Alberta v Maloney:** Maloney received a traffic ticket under the Alberta TSA. The TSA allows the Alberta government to revoke a driver's license for refusal to pay. Maloney declared bankruptcy which disallows creditors from recovering debts according to the Bankruptcy and Insolvency Act. Maloney sought to have the provincial law declared invalid according to federal paramountcy. Maloney won, the provincial statute was inoperable. Both the majority and dissent agreed that the provincial law clearly frustrates the federal purpose of removing fiduciary obligations but the court was split over whether there was an impossibility of dual compliance.
 
 + The majority held that dual compliance was not possible because the provincial law denied a **right** granted by the federal law.
++ The court noted that in cases of paramountcy it is assumed that parliament intends its laws to be compatible with provincial statutes.
 + The dissent argued that dual compliance was possible because Maloney could simply give up driving.
 
 **Reference Re Anti-Inflation Act:** In the late 1970's Canada experienced soaring inflation rates. The federal government wanted to impose sweeping economic reforms to curb inflation. The proposed federal scheme would trench of provincial jurisdiction over property and civil rights. The federal government posed a reference question asking if the scheme could be allowed under the emergency POGG power. The majority ruled in favour of the act.
 
++ Less of an emergency is needed for emergency POGG branch if the intrusion on provincial competence is less severe.
 + The majority framed the question as one of degree: the federal government seeks to extend its power over monetary policy to deal with the economic crisis. Since POGG would only extend an existing power, the bar for what constitutes a serious emergency was lowered.
 + Beetz J. dissenting argued that using POGG is a slippery slope and should be avoided. Practically everything impacts the economy, so using POGG in this way could pave the way for massive federal overreach.
++ Beetz also proposed an explicitness test for POGG. Under this test, parliament must explicitly declare something an emergency in order to use the emergency branch of POGG.
 
 **R v Crown Zellerbach:** A federal act sought to prevent ocean pollution in accordance with Canada's international treaty obligations by prohibiting dumping. The federal government has control over coastal waters at a sufficient distance from the provincially-controlled coastline. Zellerbach runs a logging business which stores logs in a cove totally within provincial waters. Zellerbach scooped wood-wasted from the shore and put it a small distance out to sea (still within provincial waters). Zellerbach was charged with dumping. The federal government argued that the federal act was allowed by the national concern doctrine of POGG. The majority ruled in favour of the federal government.
 
@@ -196,8 +207,8 @@ The national Concern test for POGG is met where the impugned legislation:
 + relates to matters which did not exist at confederation (ex: Aeronautics) or which were
 merely local at confederation but have since become national. OR:
 + The thing regulated is singular and distinct to make it discernible from local mat-
-ters. (Ocean dumping is singular and distinct)
-	+ In order to conclude whether the matter meets the singleness standard one must consider the effects of a provincial failure to regulate the matter would have on other provinces. (marine pollution cannot be effectively regulated by the provinces)
+ters (test for national concern branch). Ocean dumping is singular and distinct.
+	+ Provincial inability test: In order to conclude whether the matter meets the singleness standard one must consider the effects of a provincial failure to regulate the matter would have on other provinces. (marine pollution cannot be effectively regulated by the provinces)
 
 ## Economic Regulation
 
@@ -219,6 +230,7 @@ ters. (Ocean dumping is singular and distinct)
 **Central Canada Potash v. Government of Saskatchewan:** This case is almost identical to *CIGO*. Sask. implemented supply control over potash with American producers. The Sask. scheme set minimum prices at which potash could be sold. CCP sued, arguing that the act was on interprovincial/export trade. CCP won, the act was ultra vires.
 
 + A province may not regulate the price of an export good.
++ Differentiated from *CIGO* as it deals with price for export rather than profits on production. Production occurs within the province, price is directly related to trade.
 
 **Labatt Breweries v Canada:** The federal government passed the *Food and Drugs Act* which stated that a beer must have no more than 2.5% alcohol to be labelled "lite." Labatt sold a lite beer with 4% alcohol. Labatt sued, arguing that the law was ultra vires. Labatt won.
 
@@ -266,6 +278,11 @@ ters. (Ocean dumping is singular and distinct)
 
 ## Morality and Public Order
 
+**At a glance:** Since the criminal law is aimed at legislating to prevent evil, the question naturally arises: to what extent can provinces legislate based on morality? The courts have determined that there is some room for provincial legislation in this area. As long as the provincial statute on morality is not in pith and substance criminal law (by creating a criminal penalty) it is valid provincial law. This mostly applies to provincial regulatory schemes which set standards for how specific industries can act based on moral grounds. It is important to note that these kinds of regulations are ultra vires the parliament.
+
++ Law on public morality with a punishment: criminal law, intre vires parliament, ultra vires the provinces
++ Regulations on public morality: regulatory law, intre vires the provinces, extra vires the parliament.
+
 **Nova Scotia Board of Censors v McNeil:** The board of censors was the body charged with regulating movie theatres in Nova Scotia. The act enabling the board gave them wide discretion over how the movie industry could operate. Reg 32 stated that "indecent or improper performance" would not be allowed in Nova Scotia theatres. This regulation was used to block the semi-pornographic film *Last Tango In Paris* from being shown in Nova Scotia. Mcneil argued that the provincial board was effectively exercising criminal law to punish a public evil. McNeil succeeded in having Reg 32 struck, but the Act and the board were found intre vires.
 
 + Reg 32 seeks to prevent a public evil by instituting a penalty. This is clear criminal law, ultra vires the province.
@@ -285,7 +302,6 @@ ters. (Ocean dumping is singular and distinct)
 + Double aspect applied. The Act is about liquor regulation as part of property and civil rights regulations AND the public evil of nudity.
 + The board was regulatory and could not impose criminal penalties.
 
-\newpage
 
 **Chatterjee v Ontario:** Chatterjee was pulled over for a minor traffic infraction in Ontario. In a search incidental to arrest, police discovered over $20,000 in cash and equipment for a weed grow op (weed was illegal at the time). The Civil Remedies Act of Ontario allowed the provincial government to seize assets believed to be involved in or the proceeds from crime. Chaterjee challenged the law stating that it was in pith and substance criminal law.^[Chaterjee also claimed a violation of charter rights which is not discussed here] Chaterjee lost, the Act was intre vires the province.
 
@@ -294,9 +310,8 @@ ters. (Ocean dumping is singular and distinct)
 + The law does not include a criminal penalty (forfeiture is a form of fine).
 
 \newpage
-# Heads of Power Reference
 
-## 91 - Federal
+## 91 - Federal Heads of Power
 
 [//]: # (line spacing one-half and font-size small)
 \small
@@ -389,7 +404,7 @@ The Criminal Law, except the Constitution of Courts of Criminal Jurisdiction, bu
 **28)**
 The Establishment, Maintenance, and Management of Penitentiaries.
 
-## 92 - Provincial
+## 92 - Provincial Heads of Power
 
 **2)**
 Direct Taxation within the Province in order to the raising of a Revenue for Provincial Purposes.
