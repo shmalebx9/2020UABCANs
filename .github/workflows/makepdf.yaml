@@ -1,0 +1,13 @@
+name: make-pdf
+
+on: push
+
+jobs: 
+    creat-pdf:
+    name: Create PDF from markdown source
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+        - run: apt-get install -y tectonic pandoc wget
+        - run: mv /templates/methodius.latex ~/.pandoc/templates/methodius.latex
+        - run: pandoc --pdf-engine=tectoni --template methodius -s /Constitution/notes.md -o /Constitution/notes.pdf
