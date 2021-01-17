@@ -37,7 +37,7 @@ altar of civility.” - Moldaver J (SCC)
 **R v Nixon:** Nixon caused an accident by driving through an intersection. The accident killed a couple and injured their son. Nixon was charged with impaired driving and various other CC violations. The Crown and defence later agreed to a joint submission which did not include any CC violations. The Acting Assistant Deputy Minister of the Criminal Justice Division of the Office of the Attorney General (ADM) believed the joint submission was a mistake and ordered it to be revoked. Defence brought a s. 7 charter application (fundamental justice) for abuse of process. Nixon lost on appeal.
 
 + Prosecutorial misconduct: must include bad faith or improper motive.
-+ Abuse of process: test is whether compelling the accused to stand trial would violate fundamental principles of justice.
++ Abuse of process: test is whether compelling the accused to stand trial would violate principles of fundamental justice.
 + The change of mind was a valid exercise of prosecutorial discretion.
 
 ## Criminal Procedure 
@@ -78,7 +78,7 @@ In general, evidence is admissible if:
 
 ## Confession Rules
 
-**At a glance:** Statements made outside court cannot be introduced as evidence of the truth of their contents (Hearsay). There are however, exceptions for confessions made outside the court to a third person or overheard by a third person (*Common law confession rule*). If the confession is made to an agent of the state (police officer) then the crown must prove the following before the confession is admissible)
+**At a glance:** Statements made outside court cannot be introduced as evidence of the truth of their contents (Hearsay). There are however, exceptions for confessions made outside the court to a third person or overheard by a third person (*Common law confession rule*). If the confession is made to an agent of the state (police officer) then the crown must prove the following before the confession is admissible:
 
 + The confession was voluntary (not given in exchange for reward or to avoid punishment)
 + The confession was the product of an "operating mind"
@@ -430,7 +430,51 @@ F --> H
 + There is no "presumption," only a permissive inference.
 + The jury is allowed (not required) to concluded that a person intends the natural consequences of their actions.
 
+
 **R v Blodin:** Blodin imported a scuba tank from Japan. The tank contained 23 lbs of hash. B was tried for importing narcotics. B claimed that he only knew the tank had "something" ilegal, but he did not know it was hash. The judge charged the jury stating that the mens rea would be satisfied if Blodin knew the tank had hash. The Crown appealed, stating the judge erred in the charge. The crown won, now trial ordered.
 
 + It was only required that the accused knew or was wilfully blind to the fact that the tank contained some kind of narcotic.
 + Blodin was accused under the Narcotics Control Act, so his intent must be in relation **only** to narcotics. This could still be satisfied by wilful blindness.
+
+\newpage
+# Charter Quick Reference
+[//]: # (line spacing one-half and font-size small)
+\small
+\setstretch{0.5}
+
+**1.** The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
+
+**7.** Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+
+
+**8.** Everyone has the right to be secure against unreasonable search or seizure.
+
+
+**9.** Everyone has the right not to be arbitrarily detained or imprisoned.
+
+
+**10.** Everyone has the right on arrest or detention
+
++ a) to be informed promptly of the reasons therefor;
+
++ b) to retain and instruct counsel without delay and to be informed of that right; and
+
++ c) to have the validity of the detention determined by way of habeas corpus and to be released if the detention is not lawful.
+
+**11.** Any person charged with an offence has the right
+
++ a) to be informed without unreasonable delay of the specific offence;
++ b) to be tried within a reasonable time;
++ c) not to be compelled to be a witness in proceedings against that person in respect of the offence;
++ d) to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;
++ e) not to be denied reasonable bail without just cause;
++ f) except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is imprisonment for five years or a more severe punishment;
++ g) not to be found guilty on account of any act or omission unless, at the time of the act or omission, it constituted an offence under Canadian or international law or was criminal according to the general principles of law recognized by the community of nations;
++ h) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
++ i) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.
+
+**12.** Everyone has the right not to be subjected to any cruel and unusual treatment or punishment.
+
+**13.** A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.
+
+**14.** A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.

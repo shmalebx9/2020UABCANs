@@ -1,18 +1,8 @@
-# Contracts CAN
-
-~~~{.mermaid format=pdf loc=mermaid-images}
-graph TB
-A{{"Invitation to Treat"}}
-B{{"Display of Goods (Boots) Mere Quotation of Price (Harvey v Facey)"}}
-C{{"Offer"}}
-D{{"Intention = language used, circumstances, conduct (Dyers) "}}
-E{{"This is a text string which should be totally ignored and is quite long"}}
-F{{"This is another example of the same for purely test usage"}}
-G{{"I do not know what else to write other than the word test test test test debug etc."}}
-
-C --> D
-A --> B
-~~~
+---
+title: 'Contracts Battle CAN'
+classoption:
+- twocolumn
+---
 
 # Offer & Acceptance
 
@@ -22,7 +12,7 @@ A --> B
 
 + A mere quotation of price is not an offer, it is only an invitation to treat.
 
-**Canadian Dyers Association Ltd v Burton:** Dyers asked for the lowest cash price for a property. Burton responded "16,500". Dyers asked if Burton would go lower and Burton replied that their previous quote was as low as they would go. Dyers sent a deposit and asked for title (implicit acceptance). Burton then sent a draft deed. Later Burton changed their mind and said there was no agreement. Dyers won the case, Burton had to sell.
+**Canadian Dyers Association Ltd v Burton:** Dyers asked for the lowest cash price for a property. Burton responded "16,500". Dyers asked if Burton would go lower and Burton replied that their previous quote was as low as they would go. Dyers sent a deposit and asked for title (implicit acceptance). Burton then sent a draft deed. Later Burton changed their mind and said there was no agreement. Dyers sued, asking to have the original deal enforced. Dyers won the case, Burton had to sell.
 
 + The circumstances in which an a statement of price is made and the facts surrounding it are considered when deciding if an offer was made. The fact that Burton sent a draft deed in response to the deposit showed a recognition that their quote was an offer.
 
@@ -31,6 +21,7 @@ A --> B
 + A display of goods is only an invitation to treat. A seller can refuse an offer even after a buyer has taken physical possession of what they intend to buy.
 
 ## Unilateral Contract
+
 **At a glance:** A promise for an act, the acceptance of which consisting of the performance of the act requested, rather than the promise to perform it. In other words: the two parties don't negotiate and agree, the offeree simply accepts the contract by doing what was asked of anyone who would do it.
 
 **Carlill v Carbolic Smoke Ball:** Carbolic sold a cure-all 'smoke ball.' They posted an ad in the paper that they would pay £100 to anyone who used their product and got still sick. Carlill used the smoke ball as instructed by the ad and still got sick. When Carlill tried to collect, Carbolic claimed the ad was "mere puffery." Additionally, Carbolic claimed there could be no meeting of the minds since they didn't know Carlill at the time she "accepted."  Carlill won the case.
@@ -67,7 +58,7 @@ A --> B
 
 ## Formation
 
-**At a glance:** For a contract to form an offer must be acceptance. Acceptance is unqualified. If a reply to an offer is qualified (varies the terms), it is a counteroffer and no contract is formed unless the counteroffer is accepted. In other words: "yes" means there is a contract, "yes but..." means there is no contract.
+**At a glance:** For a contract to form, an offer must be acceptance. Acceptance is unqualified. If a reply to an offer is qualified (varies the terms), it is a counteroffer and no contract is formed unless the counteroffer is accepted. In other words: "yes" means there is a contract, "yes but..." means there is no contract.
 
 **Livingstone v Evans:** Evans offered to sell land to Livingstone for $1800. Livingstone responded "Send lowest cash price. Will give $1600 cash." Evans responded "cannot reduce price." Livingstone then tried to accept the original offer for $1800. Evans no longer wanted to sell and Livingstone sought specific performance to enforce the original deal. Evans argued that the counter-offer killed the original deal. Livingstone won.
 
@@ -76,7 +67,7 @@ A --> B
 
 ## Battle of the Forms
 
-**At a glance:** There are situations where the classic mirror principle and meeting of the minds cannot strictly apply. When two parties send contracts with revisions back and forth and eventually complete some sort of deal there is a question as to whose contract really applies. If neither party formally agrees to the other party's contract it cannot simply be stated there is no; the parties both believe they agreed to something. There are therefore several different ways of deciding how to deal with these cases. In general though, the first contract to be accepted under the normal understanding of contracts will prevail over later unsigned/unrecognized contracts. In Canada, the classic, last-shot, first-shot, and shots on both sides approaches are used depending on the context.
+**At a glance:** There are situations where the classic mirror principle and meeting of the minds cannot strictly apply. When two parties send contracts with revisions back and forth and eventually complete some sort of deal there is a question as to whose contract really applies. If neither party formally agrees to the other party's contract it cannot simply be stated there is no contract; the parties both believe they agreed to *something*. There are therefore several different ways of deciding how to deal with these cases. In general though, the first contract to be accepted under the normal understanding of contracts will prevail over later unsigned/unrecognized contracts. In Canada, the classic, last-shot, first-shot, and shots on both sides approaches are used depending on the context.
 
 **Butler Machine Tool Co Ltd v Ex-Cell-O Corp:** Ex-cell asked to purchase a custom machine tool from Butler. Butler sent a standard form contract with a price variation clause and invited Ex-cell to accept. Ex-cell sent a purchase order stating that the order would be placed without price variation. Butler "accepted" the offer by sending back the completed order form with a note stating that the order would be fulfilled with a price variation clause. The machine was built and delivered and Butler sent an invoice with an increased price, Ex-Cell refused to pay. Ex-cell won.
 
@@ -89,19 +80,20 @@ A --> B
 
 + Material changes to a contract should be brought to the attention of both parties and agreed to. Simple conduct is not enough to radically shift the nature of a contract.
 
-## Acceptance
+# Acceptance
 
 **At a glance:** Acceptance can be inferred through conduct. An offeror is the master of their own offer.
 
-The flagpole problem: In a unilateral contract, the contract is enforceable once the contract is completed. This leads to the problem that an offer can be revoked right before the act is completed. If I agree to pay you 100 dollars to climb the flagpole, under standard contracts interpretation, I can revoke my offer right before you make it to the top.
+**The flagpole problem:** In a unilateral contract, the contract is enforceable once the contract is completed. This leads to the problem that an offer can be revoked right before the act is completed. If I agree to pay you 100 dollars to climb the flagpole, under standard contracts interpretation, I can revoke my offer right before you make it to the top.
 
 **ProCD v Matthew Zeidenberg and Silken Mountain Web Services Inc:** ProCD sold a database of phone numbers to commercial and consumer users. The database could only be viewed after opening the shrinkwrap on the CD. The license stated that the database could not be redistributed. Zeidenburg bought the physical CD and resold the database. Zeidenberg argued that the license was not binding since he couldn't see it before he purchased the CD. ProCD won.
 
-+ The offeror is the master of their own offer. ProCD was free to specify the terms under which users could use their software and it was unreasonable to except ProCD to find another way to communicate the terms.
++ The offeror is the master of their own offer. ProCD was free to specify the terms under which users could use their software and it was unreasonable to expect ProCD to find another way to communicate the terms.
 
-**Dawson v Helicopter Exploration Co:** Dawson discovered a mineral-rich area in BC and staked a claim to exploit the land. Dawson later informed Springer at Helicopter Co. about the land after his claim had lapsed. Springer agreed to give Dawson a 10% stake in the land for leading him there IF Springer could get a helicopter. Springer later told Dawson that he couldn't get a helicopter. Springer's company then found the land themselves and tried to take all the profit for themselves. Dawson sued for damages and won.
+**Dawson v Helicopter Exploration Co:** Dawson discovered a mineral-rich area in BC and staked a claim to exploit the land. Dawson later informed Springer at Helicopter Co. about the land after his claim had lapsed. Springer agreed to give Dawson a 10% stake in the land for leading him there **IF** Springer could get a helicopter (unilateral contract). Springer later told Dawson that he couldn't get a helicopter. Springer's company then found the land themselves and tried to take all the profit for themselves. Dawson sued for damages and won.
 
-+ There are implied subsidiary obligations on both parties in contingent contracts to try to bring about the contingent conditions. The court tries to avoid a flagpole problem in cases of unilateral contract by finding a way to interpret the contract as bilateral. This was one of those cases. The court found that Springer impliedly agreed not to retard Dawson's efforts in return for Dawson's help.
++ There are implied subsidiary obligations on both parties in unilateral contracts to try to bring about the contingent conditions. 
++ The court tries to avoid a flagpole problem in cases of unilateral contract by finding a way to interpret the contract as bilateral. This was one of those cases. The court found that Springer impliedly agreed not to retard Dawson's efforts in return for Dawson's help.
 
 **Felthouse v Bindley:** Felthouse wanted to buy his nephew's horse. Felthouse sent a letter to his nephew stating that if he received no more response he would consider the horse sold to himself. The nephew was auctioning off farm animals and told the auctioneer to leave his horse aside as it was already sold to his uncle. The auctioneer forgot the instructions and sold the horse. Felthouse sued the auctioneer. The question is whether the statement "if I heard nothing more" can create a valid contract which was broken by the auctioneer. Felthouse lost on appeal.
 
@@ -170,7 +162,7 @@ The flagpole problem: In a unilateral contract, the contract is enforceable once
 + An offer lapses if it is not accepted within a "reasonable time."
 + The economic realities of the property sale meant that Clark's delay of 20 days was unreasonable. 
 
-## Certainty
+# Certainty
 
 **At a glance:** An agreement cannot be a contract if it is too uncertain or obviously incomplete. There can be no meeting of the minds if the terms cannot be understood by the parties. Incompleteness is far more likely to result in no contract than vagueness. To make terms more certain, the courts will try to assume reasonableness. There are two balanced principles in the law of certainty:
 
