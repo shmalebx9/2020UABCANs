@@ -7,6 +7,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v2
-          - run: sudo apt-get install -y tectonic pandoc wget
+          - run: sudo apt-get install -y pandoc libfontconfig1-dev libgraphite2-dev libharfbuzz-dev libicu-dev libssl-dev zlib1g-dev cargo
+          - run: cargo install tectonic
           - run: mv /templates/methodius.latex ~/.pandoc/templates/methodius.latex
           - run: pandoc --pdf-engine=tectonic --template methodius -s Constitution/notes.md -o Constitution/notes.pdf
