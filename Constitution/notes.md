@@ -5,17 +5,19 @@
 
 The court was asked whether the board had power to make a specific order setting profit margins for clothing prices in Ottawa.
 
-### SCC
+**SCC**
+
 the principle which in my opinion is deducible from Parson’s Case (1881), 7 AC 96 (PC), namely that section 91(2) does not authorize an enactment by the Dominion Parliament regulating in each of the provinces the terms of the contracts of a particular business or trade,
 
-### PC
+**PC**
+
 Legislation setting up a Board of Commerce with such powers appears to their Lord-ships to be beyond the powers conferred by s. 91.
 
-### Notes
+**Notes**
 
 Just another example of the courts holding that the federal government has limited power over industry. Breaking up monopolies and regulating the economy should by left up to the provinces.
 
-# Fort Frances Pulp and Paper Company v Manitoba Free Press Company [1923] AC 695 (PC)
+## Fort Frances Pulp and Paper Company v Manitoba Free Press Company [1923] AC 695 (PC)
 
 The outbreak of WWI meant that there was a radically increased demand for newspaper. The federal government thus enforced maximum paper prices to prevent price increases due to high demand.
 
@@ -28,11 +30,11 @@ After the war ended Parliament passed an act to get rid of laws enabled by the s
 
 their Lordships find themselves unable to say that the Dominion Government had no good reason for thus temporarily continuing the paper control after actual war had ceased, but while the effects of war conditions might still be operative. > PC found that even though war had ended, the exceptional circumstances relating to increased demand for newsprint had not
 
-### Notes
+**Notes**
 
 The federal government is allowed to step into provincial powers when exceptional circumstances like war necessitate the overreach to fulfil the federal government's other duties like POGG.
 
-# Toronto Electric Commissioners v Snider [1925] AC 396 (PC), [1924] 2 DLR 761 (CA)
+## Toronto Electric Commissioners v Snider [1925] AC 396 (PC), [1924] 2 DLR 761 (CA)
 
 The federal government created a board to regulate labour disputes. The board could hear complaints and make orders to employees and employers preventing lockouts and strikes.
 
@@ -43,14 +45,14 @@ It is obvious that these provisions dealt with civil rights. > This is provincia
 s. 91, the power to regulate trade and commerce cannot be relied on as enabling the Dominion Parliament to regulate civil rights in the Provinces.
 Appeal allowed
 
-### Notes
+**Notes**
 
 Privy council found federal regulation of labour disputes unconstitutional. The power to regulate trade and commerce does not broadly overlap with civil rights according to the PC.
 
-## Pgs 159-175, The new deal cases
+# The new deal cases
 
 
-# AG Canada v AG Ontario (Labour Conventions) [1937] AC 326 (PC), on appeal from [1936] SCR 461
+## AG Canada v AG Ontario (Labour Conventions) [1937] AC 326 (PC), on appeal from [1936] SCR 461
 
 *****
 
@@ -155,7 +157,7 @@ By far the most important, and most frequently used, is the pith and substance d
 
 Judges need assistance in determining what head the legislation falls under. That assistance comes in the form of a direction to judges to attend not to everything that that legislation does, appears to do, or might do, but to its pith and substance, its dominant characteristic or, in common parlance, what the legislation is really all about. Once they have determined the “matter” the **“pith and substance”** of the legislation (a process the courts often refer to as the characterization process), judges can then turn their minds to which of the competing federal and provincial “classes of subjects” that “matter” can be said to “come within.”
 
-# Katherine Swinton, The Supreme Court and Canadian Federalism: The Laskin-Dickson Years
+## Katherine Swinton, The Supreme Court and Canadian Federalism: The Laskin-Dickson Years
 
 For example, aeronautics has been held to be a federal matter under the p.o.g.g. power, as it is a matter that was not allocated by the original distribution of powers (for obvious technological reasons).
 
@@ -163,7 +165,7 @@ Determining the matter: The dominant form of inquiry is into purpose that is, to
 
 While the Fathers of Confederation may have wished for exclusivity of legislative powers or “water-tight compartments” between federal and provincial governments, it became clear early in the interpretation of the constitution that there must be some overlap or entanglement between federal and provincial regulation
 
-# William R Lederman, “Classification of Laws and the British North America Act”
+## William R Lederman, “Classification of Laws and the British North America Act”
 
 
 For a simple illustration, take the well-known rule that a will made by an unmarried person becomes void if and when he marries. Is this a rule of “marriage” (s. 91(26)) or of “property and civil rights” (s. 92(13))? > Logic cannot tell us, it's a matter of policy
@@ -172,7 +174,7 @@ Let us suppose that the federal Government proposes to enact a heavy tax on the 
 
 judges are beyond the aid of logic, because logic merely displays the many possible classifications, it does not assist in a choice between them
 
-# R v Morgentaler [1993] 3 SCR 463
+## R v Morgentaler [1993] 3 SCR 463
 
 The question in this appeal is whether the Nova Scotia Medical Services Act, RSNS 1989, c. 281, and the regulation made under the Act, NS Reg. 152/89, are ultra vires the province of Nova Scotia on the ground that they are in pith and substance criminal law
 
@@ -188,13 +190,13 @@ In a nutshell, this evidence demonstrates that members of all parties in the hou
 
 The issue we face in the present case is whether Nova Scotia has, by the present legislation, regulated the place for delivery of a medical service with a view to controlling the quality and nature of its health care delivery system, or has attempted to prohibit the performance of abortions outside hospitals with a view to suppressing or punishing what it perceives to be the socially undesirable conduct of abortion. The former would place the legislation within provincial competence; the latter would make it criminal law.
 
-# Note
+**Note**
 
 The legislation was found to be in pith and substance a criminal law since it was clearly aimed at stopping M from opening his clinic. The other parts of the legislation were ancillary.
 
-## Notes From Text 226-268
+# Interpretive Principles
 
-# Dobule Aspect Doctrine
+## Dobule Aspect Doctrine
 
 The double aspect doctrine has its origins in Hodge v The Queen (1883), 9 AC 117 (PC) which stated:
 
@@ -487,7 +489,7 @@ These facts demonstrated that V failed to make out an aboriginal right to sell f
 
 **Facts:** The Maliseet and Mi'kmaq nations of New Brunswick argued they had a s.35 right to harvest wood for personal use. They based this right on their pre-contact practices of canoe-making and basket weaving.
 
-**Analysis:** The right cannot be construed as a right to wood per se. To do so would be to make it akin to a common-law property right. The right must be specific enough to relate to the actual traditional practices adduced as evidence. To construe the right too specifically to things like basket-weaving and canoe-making leads to undue racialist reduction of indigenous cultures. The practices can be defined as "the harvesting of wood for domestic purposes."
+**Analysis:** The right cannot be construed as a right to wood per se. To do so would be to make it akin to a common-law property right. The right must be specific enough to relate to the actual traditional practices adduced as evidence. To construe the right too specifically to things like basket-weaving and canoe-making leads to undue racialist reduction of indigenous cultures. The practices can be defined as "the harvesting of wood for domestic purposes." This is a slight shift from *Van der Peet.* Instead of trying to tell indigenous people what their culture is, the distinctive culture test should seek to protect a way of life.
 
 >"I have already explained that we must discard the idea that the practice must go to the core of a people’s culture. The fact that harvesting wood for domestic uses was undertaken for survival purposes is sufficient, given the evidence adduced at trial, to meet the integral to a distinctive culture threshold."
 
@@ -536,3 +538,4 @@ The Crown can still infringe on these rights if they can show it is justified un
 The court found that the honour of the Crown required that the Province consult the Tsilhqot’in on uses of the lands and accommodate their interests. The Province did neither.
 
 **Conclusion:** The Aboriginal title was granted to the land in question. The court found that the province had breached its fiduciary responsibility. Appeal allowed.
+

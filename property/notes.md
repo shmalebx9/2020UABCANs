@@ -214,3 +214,51 @@ When Mrs. Taylor died, her estate sought clarification on whether the funds from
 The court found that option 3 was most likely based on the reasonable interpretation of the words of the will. The question then turned to whether the life-estate came with a power to encroach. If it did, then there is a chance that the property would no longer exist by the time Mrs. Martini died. If that were the case, then Mr. Taylor's reference to "the property" would make no sense as there would be nothing left to give to the Christensens. Mr. Taylor clearly, therefore, expected the property to be left intact by Mrs. Martini (no power to encroach).
 
 **Conclusion:** Mrs. Martini has a life estate with no power to encroach with a gift over to the Christensens. Appeal allowed.
+
+# Aboriginal Title
+
+There are many different forms of land titles under which indigenous individuals and nations own land. What makes a certain type of land title 'Aboriginal' is that it is some way peculiar to the particular history of Canada's first nations. In law, 'Aboriginal title' is a sui generis interest separate from common law land interests. Some nations do however hold common law interests in land that are codified by the 1982 Constitution Act.
+
+## Background
+
+**Doctrine of discovery:** This was a doctrine of international law under which the first "civilized" culture to discover an area of land would have sovereignty over it. At common law, this gave the Crown the radical title to discovered land and the right to govern it. Indigenous communities however, still had possessory rights to land which they occupied. The principle of occupation as proof of an interest in land is a standard common-law principle which undergirds concepts like adverse possession. This possessory right is the foundation for the modern concept of Aboriginal title.
+
+**Terra nullius:** This legal concept gives the first person to step foot on unoccupied land the right to full title over it. As most British colonies were occupied prior to European arrival, this doctrine was seldom invoked in the 17th and 18th century. Later, in the 19th century, the Crown began to claim territories under *terra nullius.* British Columbia and Australia were claimed under this theory. This meant that existing communities had no legal rights to benefits from the land unless those rights were granted by the Crown. Australian and BC courts have since rejected this doctrine. The courts now have to deal with determining what legitimate rights first nations in BC have to their ancestral lands.
+
+**Recognition of Aboriginal title:** Early colonial practices were premised on the fact that indigenous people had legal title to the land they occupied and controlled. Early settlers would purchase land from indigenous peoples which clearly indicates the belief that those indigenous people had legal title. The *Royal Proclamation 1763* set the standard for dealing with land rights in Canada after the conquest of New France. The RP stated that individual settlers and colonies would no longer be allowed to purchase land from indigenous peoples. Instead, the Crown had the sole right to purchase and enter into treaties for indigenous land. The RP itself justifies this policy on the grounds that it prevents exploitation. Current scholars point out the the policy granted a Crown monopsony which drove down the price of acquiring indigenous land. The RP is still in force to the extent it has not been repealed, which includes that Crown's right to purchase indigenous land. The RP also implicitly entrenched and recognized indigenous land rights.
+The RP also forms the basis for the "honour of the Crown;" the government's fiduciary duty to indigenous peoples. 
+
+**Evolution of Aboriginal title:** In order to form an agreement with the government of Canada, First Nations must logically have a pre-existing interest with which to trade for legal rights. Land cession treaties, such as treaty 6, recognized some form of Aboriginal title. This title can be used to ground an action against the government or other entities for infringement. The actual extent of rights granted by this title is obviously relevant in these actions. The Supreme Court in *St. Catherine's Milling v The Queen (1888)* held that Aboriginal title was a "personal and usurfructuary right." This ambiguous description obvious left the extent of rights granted by Aboriginal title open to interpretation. In *Calder (1973)* the court indicated the possibility that Aboriginal title continued to exist in BC were it had never been legally recognized under treaty. The *Constitution Act (1982) s.35* recognized Aboriginal rights as a constitutional concept. The *Calder* case was resolved by the *Nisga'a Final Agreement* under which the nisga'a people gave up Aboriginal title in return for self-government rights and fee simple title to certain lands to which they had Aboriginal title. This set a road map for resolving future claims:
+
++ A nation makes a claim to ancestral land
++ That claim is validated in the courts. This step is more difficult in BC where there are no pre-existing treaties to evidence prior land interests.
++ The Nation makes a "Final Agreement" which sets the legal rights of that nation to their ancestral land. 
+
+## Delgamuukw v British Columbia
+
+**Facts:** Gitxsan (G) and Wet'suwet'en (W) nations brought an action for the recognition of Aboriginal title in their ancestral lands in BC. Under G and W law, land was held by houses and clans. Thus, G and W pleadings asked for title to these houses and clans.
+
+**Issue:** To what extent can Indigenous law be used to ground a common law action for Aboriginal land rights.
+
+**Rule:** Aboriginal title is a mixture of common-law and indigenous law. The test for title is:
+
++ Occupation that is:
++ sufficient
++ exclusive
++ continuous
+
+**Analysis:** The court dismissed the action as the pleadings could function under the common law understanding of Aboriginal title. At common law, Aboriginal title belongs to nations, not houses or clans. Indigenous law traditions inform the rights granted under the title but Indigenous law alone does not govern the title granting process. The court also offered very important obiter on how the title granting process would work and what rights it grants. Important points:
+
++ Aboriginal title is based on actual occupation of land prior to European sovereignty.
++ The operant point in time for occupation is when the Crown perfected its claim to the land in question (important where a nation moves or is moved).
++ Aboriginal title is owned by the nation as a whole.
++ Grants right to exclusive **use** and **occupation.**
++ Not a fee simple. The land is inalienable except to the Crown (cannot be directly sold to a private entity).
++ The use is also restricted to that which is not irreconciliable with the nature of the occupation and use of the land which forms the basis of the claim. For example, hunting land cannot be used for strip mining.
+	+ This does not mean usage is limited to **only** the traditional use. Modern economic use is acceptable as long as it is not **irreconcilable.**
+
+**Conclusion:** Action dismissed on procedural grounds.
+
+## Haida Nation
+
+**In brief:** Where there is an ongoing project on Crown land subject to unproven Aboriginal title claims, the government has a duty to consult. The government has to seriously consider the possibility that the aboriginal claim is valid. The courts have the authority to stop projects which did not properly consult even if there is no recognized aboriginal title.

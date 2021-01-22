@@ -221,7 +221,7 @@ Posner argues that the current system actually benefits society as a whole. The 
 
 Bender counters by arguing from a feminist perspective. She argues that the cost of injury should not be explained in economic terms. Rather, society should encourage injury-avoidance for its own sake.
 
->"instead of measuring carefulness or caution, we measured concern and responsibility for the well-being of others and their protection from harm? Negligence law could begin with Gilligan’s articulation of the feminine voice’s ethic of care—a premise that no one should be hurt"
+>"instead of measuring carefulness or caution, we measured concern and responsibility for the well-being of others and their protection from harm? Negligence law could begin with Gilligan’s articulation of the feminine voice’s ethic of care - a premise that no one should be hurt"
 
 Posner replied to this criticism by arguing that the feminist perspective may not be as "feminist" as it seems. Posner explained that human nature is to care deeply for those to whom one has a real duty (family and friends) and much less so for strangers. Posner then points out that strict liability does not simply shift costs to tortfeasors and benefits to the injured. Rather, strict liability shifts costs to society as a whole through higher prices on goods and services as firms spend more to avoid harm. Posner then retorts that strict liability can be seen as more "masculine" than a fault system:
 

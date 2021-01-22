@@ -613,3 +613,120 @@ A --> F -->|Tends to|D
 **Conclusion:** London held liable for failing to comply with regulations. Appeal dismissed.
 
 >"Even though the appellant held the honest subjective belief that Cooper’s supervisors had access to accurate locate information and had accurately imparted that information, the defence of mistake of fact was not established because it was not objectively reasonable"
+
+# Penal Negligence
+
+Penal negligence offences are offences for which the actus reus necessarily includes a failure to take some action. Obviously, the Crown has difficulty proving a subjective mens rea in these cases. How can one prove, for example, that when B left the house he **intended** to neglect his baby such that the baby died. Many of these offences are therefore considered objectively.
+
+One way of considering fault objectively is through an absolute liability offence. A Crown need only prove that the prohibited thing was done or not done to prove an absolute offence. A strict liability offence is similar but the defendant is allowed to prove (BOP) that they were not negligent. 
+
+## Hundal 1993
+
+This case set the standard for dangerous driving. The accused drove a dump truck overfilled. The accused blew a red light and T-boned a car, killing the driver instantly. The case went to the SCC. The SCC had to decide if the test for intent was objective or subjective, they crated a modified objective test. The Crown must prove the actus reus and mens rea.
+
++ Actus reus: is the driving objectively dangerous
++ Mensu rea: the degree of departure from the standard. Must be a marked departure.
+
+This was justified based on:
+
++ Licensing requirement: all drivers are presumptively capable
++ Automatic and reflexive nature of driving: subjective intent impossible to prove
++ Wording of the section: indicates that the statute deals with the "manner" of driving.
++ Stats: Too many driving deaths.
+
+## R v Beatty 2008 SCC 5
+
+**Facts:** Justin Beatty drove around the 90 km/h speed limit on a BC highway. Beatty lost attention for an instant. During his inattention, Beatty slid around 1.5 feet over the centre line on a bend in the road. Beatty's truck struck a smaller vehicle. All three occupants of the other car died. Beatty told a paramedic at the time that he probably had heat stroke but later claimed he had no specific memories of the event. Beatty was driving normally for a long period of time up until right before the accident. For all intents and purposes, it seems to have been a freak accident. The trial judge acquitted on the basis that momentary inattention is not a marked departure. The BCCA ordered a new trial. Beatty appealed to the SCC
+
+**Issue:** Who bears the burden of proof in a penal negligence offence, specifically, dangerous driving.
+
+**Rule:** The marked departure test has two steps:
+
++ Was the driving objectively dangerous
++ Was the driving a marked departure from the standard of a reasonably prudent driver.
+
+**Analysis:** The supreme court found that the BCCA was in error to stop at the actus reus portion of the marked departure analysis. Though the driving was objectively dangerous, the Crown's burden was far from discharged. The court noted that having established the actus reus, the standard for civil negligence is met. The analysis must then turn to whether the dangerous driving was a marked departure. The Crown must show that the accused markedly departed. It was not the defendant's duty to prove non-negligence. Non-negligence might however, be used as a defence once the two previous elements are proven by the Crown.
+
+**Conclusion:** Appeal allowed. Acquittal restored.
+
+## R. v. DeSousa
+
+**Facts:** Ms. Santos attended a party in Ontario. A fight broke out between DeSousa and another man. Santos began grabbing her belongings to leave the area of the fight. Before she could get out of the room, DeSousa threw a bottle which hit the wall, shattered, and injured Santos' arm. Desousa was charged with unlawfully causing bodily harm.
+
+**Issue:** What mental element is necessary for the predicate offence to make out a penal negligence offence with a predicate offence. Does the offence in question violate Charter s.7 rights (violate PFJ).
+
+**Rule:** Unlawful means against federal or provincial law. This predicate offence must be in itself likely to injure another person. The victim must be actually injured.
+
+**Analysis:** English courts held that to make out a charge of manslaughter the Crown must prove that the unlawful act (predicate) was likely to injure another person. The court substantially adopted this view. The court rejected the contention that such offences punish the innocent. Rather, these offences are aimed at prevent objectively dangerous acts. Additionally, the court rejected the view that any criminal charge suffices as a valid predicate. Only an act that **is** objectively dangerous can be the predicate.
+
+**Conclusion:** Appeal dismissed. Conviction upheld.
+
+
+
+# Assault
+
+Assault is a broad category of offences. Assault, in general, is the touching or application of force to a person without that person's consent. In some instances, common law and statutes vitiate consent to some forms of touching or application of force. For example, a person cannot consent to being killed and a child cannot consent to sex. In cases of killing or sexual assault to a minor then, it would do no good to the defendant to show consent (in terms of the actus reus of assault).
+
+## R v Dewey 1999 ABCA 5
+
+**Facts:** The complainant was fighting a third person in a bar. Michael Dewey (D) got between the complainant and the other man. D forcefully shoved the complainant which caused him to fall and hit his head. D was charged with assault causing bodily harm. D was convicted at trial. D appealed, arguing that the judged erred in failing to consider whether it was reasonably foreseeable that the injury would occur.
+
+**Issue:** Does the *DeSousa* decision's rationale apply to assault; does the resulting injury have to be foreseeable for the predicate assault to form the basis of assault causing bodily harm?
+
+**Rule:** The DeSousa principle is that the predicate offence must reasonably be seen as dangerous (in terms of possibly causing bodily harm). The DeSousa decision relates only direct to the charge of "unlawfully causing bodily harm." The court extended this reasoning to assault.
+
+**Analysis:** The court found that D's position on the relevant question was too broad. D argued that the relevant question was whether it was foreseeable that the shove would cause the complainant to hit his head on the jukebox. The court found that the actual question was whether forcefully shoving someone in a bar foreseeable creates a risk of bodily harm which is neither trivial nor transitory. The trial judge found (as a fact) that D shoved the complainant with more force than would cause a stumble. Even if the judge erred in law, this finding of fact would lead to guilt under the test above.
+
+**Conclusion:** The trial judge's decision would not be changed by applying the rule in DeSousa. Appeal dismissed, conviction upheld.
+
+## R v Jobidon [1991] 2 SCR 714
+
+**Facts:** Jobidon (J) was at a hotel bar at the same time as Haggart (H). H approached J to challenge him to a fight. H was larger than J and had training as a boxer. H had the upper hand in this initial encounter according to the trial judge. The two men were ejected from the bar and continued their fight outside. At this point, it was clear that both men were consenting to a "fair" fist fight. The tables turned in this second fight. J managed to punch H in the face, knocking him onto the hood of a car. J believed that H was stunned at this point, but still capable of fighting. As H bounced off the hood, J landed several more blows to the head. H was, in fact, unconscious when he hit the hood of the car. The subsequent blows killed H. J was found not guilty of manslaughter as it was clear that H consented to the fight. The OCA reversed. J appealed.
+
+**Issue:** Whether a person can validly consent to being hit in a fist-fight. Whether the Crown must always prove absence of consent, or whether common-law principles can vitiate consent in certain situations including fist-fights.
+
+**Rule:** A person cannot consent to a fist-fight. An assault charge may be made out where both parties consent to a fight.
+
+**Analysis:** The common law of England long held that fist-fights can not be consented to. The Canadian law is somewhat more muddled. The CCC states that it does not override the common law (s.8). The appellant argues that since the CCC limits consent in cases of sexual assault (ss. 150.1 159) and consent to abduction (s. 286) the CCC's limitations on consent must be seen as exhaustive. The court rejected by reductio: if the list were exhaustive, then a father who puts a scarf on his daughter without her consent has committed assault. Clearly, common law principles of interpretation must apply to assault.
+
+The court then turned to considering whether the common law vitiated consent in this case. The majority of combined English-Canadian case law holds that one cannot consent to a fist-fight. It is preferable from a policy perspective to hold that one cannot consent to fist fights. If people were allowed to consent to such things, people might lose their inhibitions towards violence. Additionally, fights of this kind are not compatible with current Canadian values of personal dignity and bodily integrity. The common law therefore does, and should, vitiate consent to fist-fights.
+
+**Conclusion:** Appeal dismissed. Conviction of the OCA upheld.
+
+**Concurrence:** Sopinka and Stevenson concurred in result only. They argued that the non-consent element of the actus reus cannot be removed. Instead, they argue that H did not consent to the blows delivered after he was unconscious.
+
+## R v McSorley 2000 BCPC 116
+
+**Facts:** At a Boston v Vancouver hockey game McSorely (M), a Boston player, slashed Brashear (B), a Vancouver player, with his stick. The game was frustrating for the Bruins who were losing 4-0 by the final seconds of the game. M was the Bruins "enforcer." He was tasked with being rough for the purpose of morale by his coach. M and B had fought near the beginning of the game. In the initial fight, B knocked M to the ground and then proceeded to antagonize the Bruins players. By the end of the game the Bruins were losing morale. The coach put M on the ice with around 20 seconds left to finish the fight with B and restore some morale. B apparently knew what was going on and avoided M. M pursued B and slashed him in the head with his stick from behind. B hit the ground and suffered a concussion and seizure. M was charged with assault.
+
+**Issue:** How far does the implicit consent to rough-housing in sports extend.
+
+**Rule:** It is trite law that those who play sports consent to some level of injury. The judge applied a test as follows:
+
++ Is there a valid benefit to society in the action consented to?
++ Did the impugned act occur within the commonly understood limits of injury allowed by the game's unwritten rules?
++ If not, did the defendant intend only to injury within the boundaries of the unwritten rules?
++ If not then the defendant committed assault as there was no consent.
+
+**Analysis:** It was common ground of both parties that the slash would be assault if it were done intentionally. The unwritten rules of hockey do not allow for slashes to the head. The impugned action clearly violated the rules to which B had consented. M argued that he was aiming for B's shoulder, but missed and hit B in the head. The policy consideration which underrides the vitiation of consent in *Jobidon* is that the activity has no value to society. The only value to society in M's actions would have been the boost to Bruin's morale. This justification is not enough even to justify a slash to the shoulder. On this point alone, assault would be made out. Continuing, the judged asked as a matter of fact whether the hit was intended for the shoulder or head. The judge found that M did in fact aim for and hit B in the head.
+
+**Conclusion:** B did not consent to being slashed in the head. M is guilty of assault.
+
+>"He had an impulse to strike him in the head. His mindset, always tuned to aggression, permitted that. He slashed for the head. A child, swinging as at a Tee ball, would not miss. A housekeeper swinging a carpetbeater would not miss. An NHL player would never, ever miss. 
+Brashear was struck as intended. 
+>
+> Mr. McSorley, I must find you guilty as charged."
+
+## R v Javanmardi (2019) SCC 54
+
+**Facts:** M and his wife went to Javanmardi (J) to seek alternative medical treatment. M received a 1 hour consult from J. J explained that a "nutrient injection" would be the best course of treatment. J had administered these injections regularly for years. M demanded the treatment immediately and J complied. J injected the concoction which killed M by the end of the day. J was fully certified as a naturopath. The components of the nutrient mix were properly stored and bought from a licensed Ontario pharmacy. There was bacteria in the mix because of an error upstream from J. J was not allowed by Quebec law to administer the injections. J was charged with criminal negligence and manslaughter. The trial judge found that because of her education and the care taken, J's actions were not a marked departure and she was acquitted. The appeals court reversed and entered convictions.
+
+**Issue:** Whether a person's education can for the basis of the modified objective test. Whether a certain act can be objectively dangerous regardless of the circumstances.
+
+**Rule:** A judge may consider education where it is directly relevant to the act itself. This includes situations where a reasonable person would not perform the act *unless* they had the proper education. The circumstances must be considered to form the mens rea of the offence.
+
+**Analysis:** The actus reus of unlawful act manslaughter does not require an independent objective dangerousness analysis.
+The Crown does not have to show that the act is objectively dangerous to make out the mens rea in either of these charges.
+Both offences require a measurement against the objective standard. This standard requires considering the circumstances of the activity. The analysis of the **activity** can take education and experience into consideration.
+
+**Conclusion:** Acquittals restored.
